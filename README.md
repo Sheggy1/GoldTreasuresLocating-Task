@@ -8,11 +8,10 @@ makes it harder to find the location of gold treasures for undesired persons. Th
 stacked in a triangular shape, and the gold treasures are given numerical IDs starting from
 the corner, as follows:
 
-| 10
-| 6 9
-| 3 5 8
-| 1 2 4 7
-− − − −
+10
+6 9
+3 5 8
+1 2 4 7
 
 
 Each cell can be represented as points (x, y), with x being the distance from the left edge of
