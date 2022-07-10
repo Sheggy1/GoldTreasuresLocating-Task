@@ -7,11 +7,14 @@ The field, where Captain Pron stores his gold treasures, has an unusual layout, 
 makes it harder to find the location of gold treasures for undesired persons. The field is
 stacked in a triangular shape, and the gold treasures are given numerical IDs starting from
 the corner, as follows:
+
 | 10
 | 6 9
 | 3 5 8
 | 1 2 4 7
 − − − −
+
+
 Each cell can be represented as points (x, y), with x being the distance from the left edge of
 the field, and y being the distance from the bottom edge of the field.
 For example, the gold treasure at (1, 1) has ID 1, the gold treasure at (2, 3) has ID 9, and the
