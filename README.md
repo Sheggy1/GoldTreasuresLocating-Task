@@ -17,13 +17,8 @@ Pron has been storing a LOT of treasure).
 Write a function solution(x, y) which returns the gold treasures ID of the gold at location (x,
 y). Each value of x and y will be at least 1 and no greater than 100,000. Since the gold
 treasures ID can be very large, return your solution as a string representation of the number.
-Languages
-=========
-To provide a Javascript solution, create solution.js
-To provide a Rust solution, create solution.rs
-To provide a Go solution, create solution.go
-Test cases
-========
+
+
 Input: solution(2, 3)
 Output: 9
 Input: solution(10, 5)
